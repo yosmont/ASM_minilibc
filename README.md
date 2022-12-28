@@ -16,4 +16,3 @@ A school project where I had to recode some function of the C standard library:
 
 # Compile
 The shared library libasm.so can be build with `make`
-
